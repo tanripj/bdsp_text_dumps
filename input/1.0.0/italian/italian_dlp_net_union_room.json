@@ -1,0 +1,3835 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "italian_dlp_net_union_room",
+  "hash": -1062954188,
+  "langID": 4,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "DLP_net_union_room_001",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Puoi vedere la Scheda Allenatore degli altri",
+          "strWidth": 564.7656
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "e mostrare la tua.",
+          "strWidth": 225.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È interessante vedere come stanno andando",
+          "strWidth": 571.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "le avventure degli altri Allenatori, no?",
+          "strWidth": 491.609375
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "DLP_net_union_room_002",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 21,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 255,
+          "tagWordArray": [
+            "Allenatore",
+            "Allenatrice"
+          ],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quest’area è molto frequentata.",
+          "strWidth": 417.78125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Potresti approfittarne per chiacchierare, lottare",
+          "strWidth": 611.28125
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "e perfezionare le tue capacità come ",
+          "strWidth": 474.75
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "DLP_net_union_room_003",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quando fai uno scambio, hai più probabilità",
+          "strWidth": 573.75
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di successo se scegli di inviare un Pokémon",
+          "strWidth": 558.7656
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "gradito all’altro Allenatore!",
+          "strWidth": 352.828125
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "DLP_net_union_room_004",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pare che lo scambio di dati con tanti Allenatori",
+          "strWidth": 609.90625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "faccia accadere qualcosa di bello!",
+          "strWidth": 439.890625
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "DLP_net_union_room_005",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sembra che la connessione non sia tanto buona.",
+          "strWidth": 622.8281
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Magari parliamo la prossima volta!",
+          "strWidth": 444.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "DLP_net_union_room_006",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Cambia modalità di connessione",
+          "strWidth": 420.09375
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "DLP_net_union_room_007",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ah! Non hai ancora effettuato l’iscrizione",
+          "strWidth": 532.0469
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "a Nintendo Switch Online, vero?",
+          "strWidth": 420.34375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Per usufruire del Club globale, è necessario",
+          "strWidth": 563.1719
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "iscriversi a Nintendo Switch Online.",
+          "strWidth": 457.265625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Torna dopo aver completato l’iscrizione.",
+          "strWidth": 524.9219
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "DLP_net_union_room_008",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Cosa vuoi fare ora?",
+          "strWidth": 251.921875
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "DLP_net_union_room_009",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quello che capita!",
+          "strWidth": 238.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "DLP_net_union_room_010",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Una lotta!",
+          "strWidth": 128.484375
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "DLP_net_union_room_011",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Uno scambio!",
+          "strWidth": 175.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "DLP_net_union_room_012",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Prego, accomodati.",
+          "strWidth": 251.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "DLP_net_union_room_013",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi accedere alla Sala contatto?",
+          "strWidth": 436.8125
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "DLP_net_union_room_014",
+      "styleInfo": {
+        "styleIndex": 48,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 672,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Entra nella Sala locale",
+          "strWidth": 286.609375
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "DLP_net_union_room_015",
+      "styleInfo": {
+        "styleIndex": 48,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 672,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Entra nella Sala globale",
+          "strWidth": 306.09375
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "DLP_net_union_room_016",
+      "styleInfo": {
+        "styleIndex": 48,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 672,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Annulla",
+          "strWidth": 97.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "DLP_net_union_room_017",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi uscire dalla Sala locale?",
+          "strWidth": 378.984375
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "DLP_net_union_room_018",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi uscire dalla Sala globale?",
+          "strWidth": 398.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "DLP_net_union_room_019",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hai lasciato la Sala locale.",
+          "strWidth": 341.015625
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "DLP_net_union_room_020",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hai lasciato la Sala globale.",
+          "strWidth": 360.5
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "DLP_net_union_room_021",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Grazie della visita e torna presto!",
+          "strWidth": 431.078125
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "DLP_net_union_room_022",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi impostare una password?",
+          "strWidth": 393.984375
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "DLP_net_union_room_023",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "La password è errata.",
+          "strWidth": 275.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "DLP_net_union_room_024",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ricerca di partecipanti in corso.",
+          "strWidth": 409.734375
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "DLP_net_union_room_025",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Numero di partecipanti insufficiente.",
+          "strWidth": 473.625
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "DLP_net_union_room_026",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Formazione delle squadre in corso.",
+          "strWidth": 452.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "DLP_net_union_room_027",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi partecipare a una Lotta Multipla?",
+          "strWidth": 502.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "DLP_net_union_room_028",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa, ma siamo già al completo.",
+          "strWidth": 428.40625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Magari un’altra volta!",
+          "strWidth": 277.0625
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "DLP_net_union_room_029",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Il tuo ID sarà visibile agli altri Allenatori.",
+          "strWidth": 523.5156
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi continuare?",
+          "strWidth": 219.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "DLP_net_union_room_030",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Piacere!",
+          "strWidth": 102.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 30,
+      "labelName": "DLP_net_union_room_031",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi annullare la lotta?",
+          "strWidth": 302.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 31,
+      "labelName": "DLP_net_union_room_032",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Stai per spostarti nella Sala globale.",
+          "strWidth": 466.296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 32,
+      "labelName": "DLP_net_union_room_033",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Stai per spostarti nella Sala locale.",
+          "strWidth": 446.8125
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 33,
+      "labelName": "DLP_net_union_room_034",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ora ti trovi nella Sala globale.",
+          "strWidth": 390.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 34,
+      "labelName": "DLP_net_union_room_035",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ora ti trovi nella Sala locale.",
+          "strWidth": 370.984375
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 35,
+      "labelName": "DLP_net_union_room_036",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hai voglia di lottare?",
+          "strWidth": 274.359375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Va bene, allora chiamerò degli amici",
+          "strWidth": 475.171875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "a cui potrebbe interessare una lotta.",
+          "strWidth": 469.8125
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 36,
+      "labelName": "DLP_net_union_room_037",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hai voglia di fare uno scambio?",
+          "strWidth": 410.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Va bene, allora chiamerò degli amici",
+          "strWidth": 475.171875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "a cui potrebbe interessare uno scambio.",
+          "strWidth": 516.84375
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 37,
+      "labelName": "DLP_net_union_room_038",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ti va bene qualsiasi cosa?",
+          "strWidth": 335.4375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Va bene, allora chiamerò degli amici",
+          "strWidth": 475.171875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "che la pensano come te.",
+          "strWidth": 315.328125
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 38,
+      "labelName": "DLP_net_union_room_039",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi lottare?",
+          "strWidth": 169.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 39,
+      "labelName": "DLP_net_union_room_040",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scambio di dati",
+          "strWidth": 201.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 40,
+      "labelName": "DLP_net_union_room_041",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scegli una Squadra Lotta.",
+          "strWidth": 330.6875
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 41,
+      "labelName": "DLP_net_union_room_042",
+      "styleInfo": {
+        "styleIndex": 62,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "In questo tipo di lotta, due Allenatori si sfidano",
+          "strWidth": 616.15625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "mandando in campo un Pokémon ciascuno.",
+          "strWidth": 558.4844
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Prima della lotta, le squadre dei due sfidanti",
+          "strWidth": 576.25
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "vengono mischiate tra loro.",
+          "strWidth": 352.671875
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 42,
+      "labelName": "DLP_net_union_room_043",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 21,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 255,
+          "tagWordArray": [
+            "o",
+            "a"
+          ],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Benvenut",
+          "strWidth": 120.109375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " nella Sala locale del Club locale",
+          "strWidth": 426.03125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pokémon!",
+          "strWidth": 126.9375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Posso esserti d’aiuto?",
+          "strWidth": 279.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 43,
+      "labelName": "DLP_net_union_room_044",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Inizia",
+          "strWidth": 67.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 44,
+      "labelName": "DLP_net_union_room_045",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Inizia con un gruppo",
+          "strWidth": 264.453125
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 45,
+      "labelName": "DLP_net_union_room_046",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Inizia con una password",
+          "strWidth": 306.15625
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 46,
+      "labelName": "DLP_net_union_room_047",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Annulla",
+          "strWidth": 97.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 47,
+      "labelName": "DLP_net_union_room_048",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Potrai usare le funzioni di comunicazione solo",
+          "strWidth": 591.4375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con persone appartenenti allo stesso gruppo.",
+          "strWidth": 585.40625
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 48,
+      "labelName": "DLP_net_union_room_049",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 21,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 255,
+          "tagWordArray": [
+            "o",
+            "a"
+          ],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh! A quanto pare non fai ancora parte",
+          "strWidth": 513.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di nessun gruppo!",
+          "strWidth": 228.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Riprova dopo essere entrat",
+          "strWidth": 350.71875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " in un gruppo.",
+          "strWidth": 181.34375
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 49,
+      "labelName": "DLP_net_union_room_050",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Se imposti una password, potrai usare le funzioni",
+          "strWidth": 631.4844
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di comunicazione solo con chi avrà scelto",
+          "strWidth": 536.2969
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "la stessa password.",
+          "strWidth": 243.671875
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 50,
+      "labelName": "DLP_net_union_room_051",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Prego, da questa parte!",
+          "strWidth": 303.84375
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 51,
+      "labelName": "DLP_net_union_room_052",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Da qui non puoi entrare nella Sala locale.",
+          "strWidth": 538.7344
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Prova da un’altra parte, per favore.",
+          "strWidth": 456.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 52,
+      "labelName": "DLP_net_union_room_053",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi usare la Sala globale?",
+          "strWidth": 351.84375
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 53,
+      "labelName": "DLP_net_union_room_054",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi usare la Sala locale?",
+          "strWidth": 332.359375
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 54,
+      "labelName": "DLP_net_union_room_055",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Proverai di nuovo a entrare nella Sala locale.",
+          "strWidth": 580.3906
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 55,
+      "labelName": "DLP_net_union_room_056",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Stai uscendo dalla Sala locale. Va bene?",
+          "strWidth": 525.1094
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 56,
+      "labelName": "DLP_net_union_room_057",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Stai uscendo dalla Sala globale. Va bene?",
+          "strWidth": 544.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 57,
+      "labelName": "DLP_net_union_room_061",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 21,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 255,
+          "tagWordArray": [
+            "o",
+            "a"
+          ],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Puoi vedere le capsule create dagli altri giocatori",
+          "strWidth": 637.4531
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "usando il DecoraBall e vice versa.",
+          "strWidth": 435.46875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Metti in cima alla lista la capsula che vuoi",
+          "strWidth": 539.875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "mostrare.",
+          "strWidth": 119.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sei curios",
+          "strWidth": 123.171875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " di scoprire come decorano le loro",
+          "strWidth": 447.03125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "capsule gli altri giocatori, vero?",
+          "strWidth": 408.828125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Se ne vedi qualcuna che ti piace, puoi copiarla",
+          "strWidth": 607.28125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nella tua lista. Approfittane!",
+          "strWidth": 362.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 58,
+      "labelName": "DLP_net_union_room_064",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Avversario: ",
+          "strWidth": 153.921875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 59,
+      "labelName": "DLP_net_union_room_065",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sono ",
+          "strWidth": 74.015625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 60,
+      "labelName": "DLP_net_union_room_066",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sono ",
+          "strWidth": 74.015625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 61,
+      "labelName": "DLP_net_union_room_067",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " sta scegliendo cosa fare...",
+          "strWidth": 342.875
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 62,
+      "labelName": "DLP_net_union_room_068",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non è più possibile partecipare a questa lotta.",
+          "strWidth": 602.2969
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 63,
+      "labelName": "DLP_net_union_room_069",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mi dispiace, ma non ho Pokémon da scambiare.",
+          "strWidth": 618.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Facciamo un’altra volta!",
+          "strWidth": 309.171875
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 64,
+      "labelName": "DLP_net_union_room_070",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mi dispiace, ma non ho Pokémon da scambiare.",
+          "strWidth": 618.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Facciamo un’altra volta!",
+          "strWidth": 309.171875
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 65,
+      "labelName": "DLP_net_union_room_071",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi fare uno scambio?",
+          "strWidth": 305.328125
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 66,
+      "labelName": "DLP_net_union_room_072",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi scambiare i dati?",
+          "strWidth": 287.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 67,
+      "labelName": "DLP_net_union_room_073",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lo scambio di dati è stato interrotto.",
+          "strWidth": 475.640625
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 68,
+      "labelName": "DLP_net_union_room_074",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi partecipare a uno scambio di dati?",
+          "strWidth": 519.03125
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 69,
+      "labelName": "DLP_net_union_room_075",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Il tuo ID sarà visibile ad altri giocatori.",
+          "strWidth": 496.890625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Va bene?",
+          "strWidth": 123.203125
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 70,
+      "labelName": "DLP_net_union_room_076",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa per l’attesa! Ecco la mia Scheda",
+          "strWidth": 491.890625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allenatore!",
+          "strWidth": 142.625
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 71,
+      "labelName": "DLP_net_union_room_077",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa per l’attesa! Ecco la mia Scheda",
+          "strWidth": 491.890625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allenatore!",
+          "strWidth": 142.625
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 72,
+      "labelName": "DLP_net_union_room_078",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi smettere di visualizzare la Scheda",
+          "strWidth": 503.546875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allenatore?",
+          "strWidth": 149.828125
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 73,
+      "labelName": "DLP_net_union_room_079",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non ci sono capsule decorate.",
+          "strWidth": 392.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 74,
+      "labelName": "DLP_net_union_room_080",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allora ti mostro una capsula decorata",
+          "strWidth": 484.84375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con il DecoraBall!",
+          "strWidth": 229.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 75,
+      "labelName": "DLP_net_union_room_081",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allora ti mostro una capsula decorata",
+          "strWidth": 484.84375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con il DecoraBall!",
+          "strWidth": 229.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 77,
+      "arrayIndex": 76,
+      "labelName": "DLP_net_union_room_082",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ah! Non ho ancora avuto modo di usare",
+          "strWidth": 517.0781
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "il DecoraBall.",
+          "strWidth": 174.28125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa, facciamo un’altra volta!",
+          "strWidth": 392.078125
+        }
+      ]
+    },
+    {
+      "labelIndex": 78,
+      "arrayIndex": 77,
+      "labelName": "DLP_net_union_room_083",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ah! Non ho ancora avuto modo di usare",
+          "strWidth": 517.0781
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "il DecoraBall.",
+          "strWidth": 174.28125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa, facciamo un’altra volta!",
+          "strWidth": 392.078125
+        }
+      ]
+    },
+    {
+      "labelIndex": 79,
+      "arrayIndex": 78,
+      "labelName": "DLP_net_union_room_084",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa per l’attesa! Ecco la mia capsula!",
+          "strWidth": 502.296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 80,
+      "arrayIndex": 79,
+      "labelName": "DLP_net_union_room_085",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scusa per l’attesa! Ecco la mia capsula!",
+          "strWidth": 502.296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 81,
+      "arrayIndex": 80,
+      "labelName": "DLP_net_union_room_086",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi smettere di visualizzare la capsula?",
+          "strWidth": 521.15625
+        }
+      ]
+    },
+    {
+      "labelIndex": 82,
+      "arrayIndex": 81,
+      "labelName": "DLP_net_union_room_087",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi copiare la decorazione",
+          "strWidth": 364.984375
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di ",
+          "strWidth": 33.5625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "?",
+          "strWidth": 14.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 83,
+      "arrayIndex": 82,
+      "labelName": "DLP_net_union_room_088",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scegli su che capsula copiare la decorazione.",
+          "strWidth": 584.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 84,
+      "arrayIndex": 83,
+      "labelName": "DLP_net_union_room_089",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi copiare la decorazione su questa capsula?",
+          "strWidth": 614.9219
+        }
+      ]
+    },
+    {
+      "labelIndex": 85,
+      "arrayIndex": 84,
+      "labelName": "DLP_net_union_room_090",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "La decorazione è stata copiata!",
+          "strWidth": 405.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 86,
+      "arrayIndex": 85,
+      "labelName": "DLP_net_union_room_091",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " vuole mostrarti una capsula",
+          "strWidth": 362.078125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "personalizzata con il DecoraBall.",
+          "strWidth": 422.828125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi mostrarne una anche tu?",
+          "strWidth": 385.546875
+        }
+      ]
+    },
+    {
+      "labelIndex": 87,
+      "arrayIndex": 86,
+      "labelName": "DLP_net_union_room_092",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ti ha mostrato una capsula",
+          "strWidth": 348.609375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "personalizzata con il DecoraBall.",
+          "strWidth": 422.828125
+        }
+      ]
+    },
+    {
+      "labelIndex": 88,
+      "arrayIndex": 87,
+      "labelName": "DLP_net_union_room_093",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Proverai di nuovo a entrare nella Sala locale.",
+          "strWidth": 580.3906
+        }
+      ]
+    },
+    {
+      "labelIndex": 89,
+      "arrayIndex": 88,
+      "labelName": "DLP_net_union_room_094",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Che spasso mostrarsi a vicenda le capsule",
+          "strWidth": 539.40625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "create usando il DecoraBall!",
+          "strWidth": 364.28125
+        }
+      ]
+    },
+    {
+      "labelIndex": 90,
+      "arrayIndex": 89,
+      "labelName": "DLP_net_union_room_095",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Che spasso mostrarsi a vicenda le capsule",
+          "strWidth": 539.40625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "create usando il DecoraBall!",
+          "strWidth": 364.28125
+        }
+      ]
+    },
+    {
+      "labelIndex": 91,
+      "arrayIndex": 90,
+      "labelName": "DLP_net_union_room_096",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Per presentarmi, ti faccio vedere la mia",
+          "strWidth": 507.046875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scheda Allenatore.",
+          "strWidth": 245.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 92,
+      "arrayIndex": 91,
+      "labelName": "DLP_net_union_room_097",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non puoi usare la funzione DecoraBall.",
+          "strWidth": 506.890625
+        }
+      ]
+    },
+    {
+      "labelIndex": 93,
+      "arrayIndex": 92,
+      "labelName": "DLP_net_union_room_098",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non hai capsule libere su cui fare la copia.",
+          "strWidth": 550.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 94,
+      "arrayIndex": 93,
+      "labelName": "DLP_net_union_room_099",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi fare una Lotta in Singolo?",
+          "strWidth": 402.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 95,
+      "arrayIndex": 94,
+      "labelName": "DLP_net_union_room_100",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi fare una Lotta in Doppio?",
+          "strWidth": 404.546875
+        }
+      ]
+    },
+    {
+      "labelIndex": 96,
+      "arrayIndex": 95,
+      "labelName": "DLP_net_union_room_101",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi fare una Lotta Mista?",
+          "strWidth": 344.609375
+        }
+      ]
+    },
+    {
+      "labelIndex": 97,
+      "arrayIndex": 96,
+      "labelName": "DLP_net_union_room_102",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi fare una Lotta Multipla?",
+          "strWidth": 381.484375
+        }
+      ]
+    },
+    {
+      "labelIndex": 98,
+      "arrayIndex": 97,
+      "labelName": "DLP_net_union_room_103",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Esci dalla sala",
+          "strWidth": 179.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 98,
+      "labelName": "DLP_net_union_room_058",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Info",
+          "strWidth": 50.890625
+        }
+      ]
+    },
+    {
+      "labelIndex": 99,
+      "arrayIndex": 99,
+      "labelName": "DLP_net_union_room_104",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 21,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 255,
+          "tagWordArray": [
+            "o",
+            "a"
+          ],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Benvenut",
+          "strWidth": 120.109375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " nella Sala locale!",
+          "strWidth": 227.453125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Qui potrai divertirti a scambiare Pokémon",
+          "strWidth": 541.75
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con tante altre persone!",
+          "strWidth": 308.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 100,
+      "arrayIndex": 100,
+      "labelName": "DLP_net_union_room_105",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lo scambio è stato annullato.",
+          "strWidth": 380.34375
+        }
+      ]
+    }
+  ]
+}

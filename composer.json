@@ -1,0 +1,14 @@
+{
+    "name": "tanripj/bdsp_text_dumps",
+    "description": "A script to pull text from the BDSP json files for every language.",
+    "authors": [
+        {
+            "name": "Ripley Tanner",
+            "email": "tanripj@gmail.com"
+        }
+    ],
+    "require": {
+        "halaxa/json-machine": "^1.1",
+        "league/csv": "^9.10"
+    }
+}

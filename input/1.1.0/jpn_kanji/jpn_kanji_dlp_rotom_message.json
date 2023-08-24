@@ -1,0 +1,3758 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_kanji_dlp_rotom_message",
+  "hash": -1408684488,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 1,
+  "labelDataArray": [
+    {
+      "labelIndex": 7,
+      "arrayIndex": 0,
+      "labelName": "msg_c04r0205_rotom_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どの　ロトムに　しますか？",
+          "strWidth": 399.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 1,
+      "labelName": "msg_c04r0205_rotom_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "タマゴでは　モーターの　中に",
+          "strWidth": 444.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいることが　できません",
+          "strWidth": 376.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 2,
+      "labelName": "msg_c04r0205_rotom_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そのポケモンでは　モーターの　中に",
+          "strWidth": 539.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいることが　できません",
+          "strWidth": 376.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 3,
+      "labelName": "msg_c04r0205_rotom_11",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どの　ロトムを",
+          "strWidth": 218.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "もとの　姿に　戻しますか？",
+          "strWidth": 403.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 4,
+      "labelName": "msg_c04r0205_rotom_12",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おや？　ロトムは",
+          "strWidth": 246.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "もとの　姿に　戻りたそうだ",
+          "strWidth": 410.85
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターから　だしてあげますか？",
+          "strWidth": 498.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 5,
+      "labelName": "msg_c04r0205_rotom_13",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "もとに戻す",
+          "strWidth": 157.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 6,
+      "labelName": "msg_c04r0205_rotom_13_1",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はい",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 7,
+      "labelName": "msg_c04r0205_rotom_13_2",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いいえ",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 8,
+      "labelName": "msg_c04r0205_rotom_13_3",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "その　ロトムは",
+          "strWidth": 220.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターに　はいっていません",
+          "strWidth": 438.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 9,
+      "labelName": "msg_c04r0205_rotom_13_4",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電化製品が　あった　場所だ！",
+          "strWidth": 432.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 10,
+      "labelName": "msg_c04r0205_range_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電子レンジが　置かれている……",
+          "strWidth": 472.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 11,
+      "labelName": "msg_c04r0205_range_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電子レンジが　置かれている……",
+          "strWidth": 472.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おや？　ロトムが　モーターの",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中に　はいりたそうに　している……",
+          "strWidth": 532.85
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターに　いれてあげますか？",
+          "strWidth": 468.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 12,
+      "labelName": "msg_c04r0205_range_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは",
+          "strWidth": 124.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電子レンジの　モーターの　中に",
+          "strWidth": 475.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいるのを　あきらめた……",
+          "strWidth": 414.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 13,
+      "labelName": "msg_c04r0205_range_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムのカタログに",
+          "strWidth": 281.1
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電子レンジが　追加された！",
+          "strWidth": 399.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 14,
+      "labelName": "msg_c04r0205_freezer_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冷蔵庫が　置かれている……",
+          "strWidth": 412.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 15,
+      "labelName": "msg_c04r0205_freezer_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冷蔵庫が　置かれている……",
+          "strWidth": 412.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おや？　ロトムが　モーターの",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中に　はいりたそうに　している……",
+          "strWidth": 532.85
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターに　いれてあげますか？",
+          "strWidth": 468.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 16,
+      "labelName": "msg_c04r0205_freezer_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは",
+          "strWidth": 124.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冷蔵庫の　モーターの　中に",
+          "strWidth": 415.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいるのを　あきらめた……",
+          "strWidth": 414.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 17,
+      "labelName": "msg_c04r0205_freezer_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムのカタログに",
+          "strWidth": 281.1
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冷蔵庫が　追加された！",
+          "strWidth": 339.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 18,
+      "labelName": "msg_c04r0205_washer_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洗濯機が　置かれている……",
+          "strWidth": 412.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 19,
+      "labelName": "msg_c04r0205_washer_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洗濯機が　置かれている……",
+          "strWidth": 412.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おや？　ロトムが　モーターの",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中に　はいりたそうに　している……",
+          "strWidth": 532.85
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターに　いれてあげますか？",
+          "strWidth": 468.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 20,
+      "labelName": "msg_c04r0205_washer_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは",
+          "strWidth": 124.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洗濯機の　モーターの　中に",
+          "strWidth": 415.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいるのを　あきらめた……",
+          "strWidth": 414.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 21,
+      "labelName": "msg_c04r0205_washer_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムのカタログに",
+          "strWidth": 281.1
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洗濯機が　追加された！",
+          "strWidth": 339.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 22,
+      "labelName": "msg_c04r0205_fan_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扇風機が　置かれている……",
+          "strWidth": 412.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 23,
+      "labelName": "msg_c04r0205_fan_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扇風機が　置かれている……",
+          "strWidth": 412.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おや？　ロトムが　モーターの",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中に　はいりたそうに　している……",
+          "strWidth": 532.85
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターに　いれてあげますか？",
+          "strWidth": 468.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 24,
+      "labelName": "msg_c04r0205_fan_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは",
+          "strWidth": 124.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扇風機の　モーターの　中に",
+          "strWidth": 415.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいるのを　あきらめた……",
+          "strWidth": 414.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 25,
+      "labelName": "msg_c04r0205_fan_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムのカタログに",
+          "strWidth": 281.1
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扇風機が　追加された！",
+          "strWidth": 339.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 26,
+      "labelName": "msg_c04r0205_lawnmower_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "芝刈り機が　置かれている……",
+          "strWidth": 442.900024
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 27,
+      "labelName": "msg_c04r0205_lawnmower_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な形の　モーターのついた",
+          "strWidth": 479.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "芝刈り機が　置かれている……",
+          "strWidth": 442.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おや？　ロトムが　モーターの",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中に　はいりたそうに　している……",
+          "strWidth": 532.85
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターに　いれてあげますか？",
+          "strWidth": 468.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 28,
+      "labelName": "msg_c04r0205_lawnmower_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは",
+          "strWidth": 124.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "芝刈り機の　モーターの　中に",
+          "strWidth": 444.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はいるのを　あきらめた……",
+          "strWidth": 414.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 29,
+      "labelName": "msg_c04r0205_lawnmower_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムのカタログに",
+          "strWidth": 281.1
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "芝刈り機が　追加された！",
+          "strWidth": 368.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 30,
+      "labelName": "msg_c04r0205_book_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いつ　書かれたのかも　さだかでない",
+          "strWidth": 540.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "怪しげな　ノートが　置いてある……",
+          "strWidth": 527.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "とある　場所で　偶然",
+          "strWidth": 316.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "特殊な　モーターに　出入りする",
+          "strWidth": 476.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモン　ロトムの",
+          "strWidth": 282.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "情報などを　入手　した",
+          "strWidth": 347.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは　さまざまな　家電に",
+          "strWidth": 439.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入り込み　フォルムチェンジを　果たす",
+          "strWidth": 559.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "姿を　変えた　ロトムは",
+          "strWidth": 347.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入り込んだ　家電の　性質を",
+          "strWidth": 413.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "その身に　映しだし",
+          "strWidth": 281.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "タイプや　覚える　技など",
+          "strWidth": 378.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "フォルムごとに　異なることを",
+          "strWidth": 432.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "確認した",
+          "strWidth": 125.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いずれ　詳しく　研究して",
+          "strWidth": 370.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "わたしの　手柄と　するため",
+          "strWidth": 411.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムに　関係する",
+          "strWidth": 283.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "一切合切を　隠しておく",
+          "strWidth": 341.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "天才科学者　プル……",
+          "strWidth": 318.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "あとは　真っ白だ……",
+          "strWidth": 314.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 31,
+      "labelName": "msg_c04r0205_doctor_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おお　おまえか！",
+          "strWidth": 243.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こんなところでも　ポケモンを",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探しているとは　熱心　だな",
+          "strWidth": 408.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "わたしか？",
+          "strWidth": 151.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハクタイには　知り合いの",
+          "strWidth": 377.050018
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "博士が　ときどき　やって来てな",
+          "strWidth": 465.800018
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "面白い　ポケモンの　噂を",
+          "strWidth": 381.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いろいろ　聞かせてくれるのだよ",
+          "strWidth": 472.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 32,
+      "labelName": "msg_c04r0205_doctor_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電化製品の　中に",
+          "strWidth": 255.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入り込む　ポケモンか……",
+          "strWidth": 379.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "うむう……",
+          "strWidth": 157.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "わたしが　聞いた　話とは",
+          "strWidth": 379.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "少し　違うようだな……",
+          "strWidth": 346.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "うむう……　わたしが　知っているのは",
+          "strWidth": 563.85
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こんな　話だ",
+          "strWidth": 190.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "昔　おもちゃの　ロボットに",
+          "strWidth": 405.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入り込んだままの　ポケモンがいてな",
+          "strWidth": 534.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それを　新しい　ポケモンとして",
+          "strWidth": 466.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "認めるか　どうか……",
+          "strWidth": 317.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "議論が　始まろうと　したが",
+          "strWidth": 409.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "肝心の　ロボット　ポケモンは",
+          "strWidth": 438.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いなくなった　というんだ……",
+          "strWidth": 437.900024
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 33,
+      "labelName": "msg_01_rotomnote_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いつのものだか　よく　わからない",
+          "strWidth": 507.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "古い　ノートが　置かれている……",
+          "strWidth": 498.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "読んでみますか？",
+          "strWidth": 247.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 34,
+      "labelName": "msg_01_rotomnote_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "出会いは　突然　だったよ",
+          "strWidth": 380.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくが　なくした",
+          "strWidth": 245.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おもちゃの　ロボットを　見つけたとき",
+          "strWidth": 562.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "芝刈り機の　モーターから",
+          "strWidth": 381.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンが　飛び出してきたんだ",
+          "strWidth": 469.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "で　ぼくは　ロボットを　持ったまま",
+          "strWidth": 523.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そのポケモンを　見つめていたんだ……",
+          "strWidth": 569.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 35,
+      "labelName": "msg_01_rotomnote_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "その　ポケモンは　なんだか",
+          "strWidth": 414.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ふわふわと　浮かんだまま",
+          "strWidth": 380.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議そうに　ぼくに　近寄ってきた",
+          "strWidth": 528.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンは　電気を　出しているのか",
+          "strWidth": 535.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "まわりの　空気が　びりびり",
+          "strWidth": 406.850037
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はじけるような　音がして……",
+          "strWidth": 438.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "このままだと　ぼくの　顔も",
+          "strWidth": 406.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "しびれる！　と思った　そのとき",
+          "strWidth": 456.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンは　笑ったように　見えた",
+          "strWidth": 503.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 36,
+      "labelName": "msg_01_rotomnote_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そのとき　わかったんだ",
+          "strWidth": 345.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくたちは　友達に　なれるって",
+          "strWidth": 467.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　ポケモンを",
+          "strWidth": 317.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムって　呼ぶことにした",
+          "strWidth": 397.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "単純　なんだけど　ロトムは",
+          "strWidth": 410.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "芝刈り機の　モーターから",
+          "strWidth": 381.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "その　姿を　現したからね",
+          "strWidth": 380.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターと　ロトム",
+          "strWidth": 282.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "なんだか　わかるでしょ",
+          "strWidth": 344.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 37,
+      "labelName": "msg_01_rotomnote_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムは　イかした　ポケモンだよ",
+          "strWidth": 501.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "姿を　消すことだって　できるし",
+          "strWidth": 462.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "なんといったって　いろんな",
+          "strWidth": 403.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "機械の　中に　入り込める！",
+          "strWidth": 400.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "さらに　入り込んだ　機械を",
+          "strWidth": 411.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "動かせるんだ　ロトムは！",
+          "strWidth": 368.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……半分ぐらい　読んだようだ",
+          "strWidth": 445.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "続きも　読みますか？",
+          "strWidth": 312.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 38,
+      "labelName": "msg_01_rotomnote_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくと　ロトムは",
+          "strWidth": 246.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どんなときも　一緒　だった",
+          "strWidth": 408.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムの　体から　出ている",
+          "strWidth": 408.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電気のせいで　なでたり",
+          "strWidth": 345.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "抱きしめたりは　できなかったけど",
+          "strWidth": 497.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "全然　平気　だったよ！",
+          "strWidth": 336.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "だって　ぼくと　ロトムは",
+          "strWidth": 367.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "心と　心で",
+          "strWidth": 156.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いつも　通じ合っているから",
+          "strWidth": 406.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 39,
+      "labelName": "msg_01_rotomnote_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ある日の　ことだった",
+          "strWidth": 312.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ふわふわ　浮いている　ロトムを　見て",
+          "strWidth": 564.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いつもとは　逆に　ぼくが",
+          "strWidth": 376.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムを　おどかして　みたんだ",
+          "strWidth": 467.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そうしたら……　ロトムは",
+          "strWidth": 375.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "驚きすぎたのか　体からの",
+          "strWidth": 382.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電気が　いつもより　広がり",
+          "strWidth": 410.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくは　しびれ　気絶　した……",
+          "strWidth": 469.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 40,
+      "labelName": "msg_01_rotomnote_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "気づいた　ぼくは　まわりに",
+          "strWidth": 406.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムが　いないことを　知り",
+          "strWidth": 437.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "必死になって　探しまわった",
+          "strWidth": 399.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "（気にすることなんて　ないのに）",
+          "strWidth": 471.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "（ぼくは　大丈夫だよ）",
+          "strWidth": 316.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "（いつものように　遊ぼうよ）",
+          "strWidth": 411.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いっぱい　言葉が　あふれてくるのに",
+          "strWidth": 531.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それを　聞いてくれる　友達は",
+          "strWidth": 440.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どこにも　見つからなくて……",
+          "strWidth": 435.900024
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 41,
+      "labelName": "msg_01_rotomnote_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それは　ロトムを",
+          "strWidth": 251.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探している　とき　だったんだ",
+          "strWidth": 435.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくは　ゴミ捨て場で",
+          "strWidth": 307.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おもちゃの　ロボットを　見つけた",
+          "strWidth": 500.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくと　目があった　ロボットは",
+          "strWidth": 462.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "なぜだか　手を　振ってくれた",
+          "strWidth": 436.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それは　ロトムだと　わかった",
+          "strWidth": 438.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ぼくは　駆け寄り　力いっぱい",
+          "strWidth": 437.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "抱きしめたまま　ぼくは　ロトムに",
+          "strWidth": 497.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "たくさん　話しかけた",
+          "strWidth": 312.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……続きを　読みますか？",
+          "strWidth": 375.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 42,
+      "labelName": "msg_01_rotomnote_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "その度に　ロボットの　目が",
+          "strWidth": 407.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "うれしそうに　光って……",
+          "strWidth": 370.85
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "きっと　中の　ロトムから　たくさん",
+          "strWidth": 528.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電気が　出てるんだろう",
+          "strWidth": 347.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "なんだか　今までよりも",
+          "strWidth": 346.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムのことが　わかる　気がした",
+          "strWidth": 501.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そして　ぼくたちは",
+          "strWidth": 277.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ずっと　一緒　だということも",
+          "strWidth": 437.800018
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……ノートの　書き込みは",
+          "strWidth": 373.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "この　ページで　終わっている……",
+          "strWidth": 499.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 43,
+      "labelName": "msg_01_rotomnote_19",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 9,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は　持っている",
+          "strWidth": 216.95
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を　使った！",
+          "strWidth": 175.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 44,
+      "labelName": "msg_01_rotomnote_20",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "秘密の　部屋の　入口だ！",
+          "strWidth": 372.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 45,
+      "labelName": "msg_c04r0205_rotom_14",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトムを　選んでください",
+          "strWidth": 372.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 46,
+      "labelName": "msg_c04r0205_rotom_15_1",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "選択　できます",
+          "strWidth": 220.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 47,
+      "labelName": "msg_c04r0205_rotom_15_2",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "選択　できません",
+          "strWidth": 252.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 48,
+      "labelName": "msg_c04r0205_rotom_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターの　中に　はいりこんだ！",
+          "strWidth": 494.95
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は　新しく",
+          "strWidth": 153.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を　覚えたい……！",
+          "strWidth": 275.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "しかし　",
+          "strWidth": 122.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "すでに　技を　４つ　覚えている！",
+          "strWidth": 484.95
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "の　かわりに",
+          "strWidth": 188.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "他の　技を　忘れさせますか？",
+          "strWidth": 439.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 49,
+      "labelName": "msg_c04r0205_rotom_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それでは　",
+          "strWidth": 158.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を",
+          "strWidth": 31.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "覚えさせるのを　あきらめますか？",
+          "strWidth": 502.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 50,
+      "labelName": "msg_c04r0205_rotom_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は　",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を",
+          "strWidth": 31.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "覚えずに　終わった！",
+          "strWidth": 303.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターの　中から　でてきた！",
+          "strWidth": 461.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 51,
+      "labelName": "msg_c04r0205_rotom_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を",
+          "strWidth": 31.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "忘れさせて　よろしいですね？",
+          "strWidth": 432.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 52,
+      "labelName": "msg_c04r0205_rotom_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "１",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "　２の",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "　…",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "…",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "　ポカン！",
+          "strWidth": 146.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 53,
+      "labelName": "msg_c04r0205_rotom_05_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は　",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "の",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使い方を　きれいに忘れた！",
+          "strWidth": 401.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そして……！",
+          "strWidth": 173.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 54,
+      "labelName": "msg_c04r0205_rotom_05_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は　新しく",
+          "strWidth": 153.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を　覚えた！",
+          "strWidth": 179.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 55,
+      "labelName": "msg_c04r0205_rotom_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターの　中に　入り込んだ！",
+          "strWidth": 464.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 56,
+      "labelName": "msg_c04r0205_rotom_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "は",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モーターから　出てきた！",
+          "strWidth": 367.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 57,
+      "labelName": "msg_c04r0205_doctor_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それにしても　この",
+          "strWidth": 278.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロトム　という　ポケモンは……",
+          "strWidth": 471.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "変わった　ポケモン　だな",
+          "strWidth": 378.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "電化製品の　中に　入りつつ",
+          "strWidth": 410.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "というか　半ば　融合　して",
+          "strWidth": 407.85
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "新しい　技を　覚えるのか",
+          "strWidth": 380.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いってみれば　機械のような",
+          "strWidth": 407.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンのような　存在　だ",
+          "strWidth": 412.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ふむう……！",
+          "strWidth": 178.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "極めて　特殊だが　これも",
+          "strWidth": 378.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　ひとつの　姿　だな",
+          "strWidth": 474.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "なるほど　なるほど！",
+          "strWidth": 305.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いくつに　なっても　ポケモンには",
+          "strWidth": 495.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "新しい　発見が　ある！",
+          "strWidth": 337.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "それではな　",
+          "strWidth": 190.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 20.0
+        }
+      ]
+    }
+  ]
+}

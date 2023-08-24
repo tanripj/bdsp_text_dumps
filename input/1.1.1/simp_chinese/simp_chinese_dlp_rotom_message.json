@@ -1,0 +1,3374 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "simp_chinese_dlp_rotom_message",
+  "hash": -1408684488,
+  "langID": 9,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 7,
+      "arrayIndex": 0,
+      "labelName": "msg_c04r0205_rotom_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要选择哪只洛托姆？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 1,
+      "labelName": "msg_c04r0205_rotom_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "蛋无法进入马达中。",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 2,
+      "labelName": "msg_c04r0205_rotom_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这只宝可梦无法进入马达中。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 3,
+      "labelName": "msg_c04r0205_rotom_11",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要让哪只洛托姆",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "恢复为原来的样子？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 4,
+      "labelName": "msg_c04r0205_rotom_12",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦？洛托姆好像打算",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "恢复为原来的样子。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把它从马达中放出来吗？",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 5,
+      "labelName": "msg_c04r0205_rotom_13",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "复原",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 6,
+      "labelName": "msg_c04r0205_rotom_13_1",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "是",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 7,
+      "labelName": "msg_c04r0205_rotom_13_2",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "否",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 8,
+      "labelName": "msg_c04r0205_rotom_13_3",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这只洛托姆没有在马达中。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 9,
+      "labelName": "msg_c04r0205_rotom_13_4",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "之前这里有个电器，",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达！",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 10,
+      "labelName": "msg_c04r0205_range_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个微波炉，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 11,
+      "labelName": "msg_c04r0205_range_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个微波炉，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦？洛托姆好像想要进入马达中……",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把它放进马达吗？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 12,
+      "labelName": "msg_c04r0205_range_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆放弃了进入微波炉的马达……",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 13,
+      "labelName": "msg_c04r0205_range_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆型录追加了微波炉！",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 14,
+      "labelName": "msg_c04r0205_freezer_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个冰箱，",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 15,
+      "labelName": "msg_c04r0205_freezer_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个冰箱，",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦？洛托姆好像想要进入马达中……",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把它放进马达吗？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 16,
+      "labelName": "msg_c04r0205_freezer_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆放弃了进入冰箱的马达……",
+          "strWidth": 480.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 17,
+      "labelName": "msg_c04r0205_freezer_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆型录追加了冰箱！",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 18,
+      "labelName": "msg_c04r0205_washer_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个洗衣机，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 19,
+      "labelName": "msg_c04r0205_washer_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个洗衣机，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦？洛托姆好像想要进入马达中……",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把它放进马达吗？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 20,
+      "labelName": "msg_c04r0205_washer_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆放弃了进入洗衣机的马达……",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 21,
+      "labelName": "msg_c04r0205_washer_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆型录追加了洗衣机！",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 22,
+      "labelName": "msg_c04r0205_fan_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个电风扇，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 23,
+      "labelName": "msg_c04r0205_fan_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个电风扇，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦？洛托姆好像想要进入马达中……",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把它放进马达吗？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 24,
+      "labelName": "msg_c04r0205_fan_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆放弃了进入电风扇的马达……",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 25,
+      "labelName": "msg_c04r0205_fan_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆型录追加了电风扇！",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 26,
+      "labelName": "msg_c04r0205_lawnmower_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个割草机，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 27,
+      "labelName": "msg_c04r0205_lawnmower_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一个割草机，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "装有形状很奇妙的马达……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦？洛托姆好像想要进入马达中……",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把它放进马达吗？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 28,
+      "labelName": "msg_c04r0205_lawnmower_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆放弃了进入割草机的马达……",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 29,
+      "labelName": "msg_c04r0205_lawnmower_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆型录追加了割草机！",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 30,
+      "labelName": "msg_c04r0205_book_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一本不知写于何时的，",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "似乎有些可疑的笔记本……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我在某个地方偶然得知了可以进出",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "特殊马达的宝可梦，也就是洛托姆的信息。",
+          "strWidth": 608.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆会进入各种各样的家电，",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "并发生形态变化。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "改变了样子的洛托姆",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "会将家电的性质转移到自己身上。",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "它的属性和可以学习的招式等",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "都会根据形态而有所不同。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "总有一天，我会深入研究洛托姆，",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "并独占所有的功劳。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "因此我要把有关洛托姆的",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "一切都隐藏起来。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "天才科学家　冥……",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "之后就是空白了……",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 31,
+      "labelName": "msg_c04r0205_doctor_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "哦哦，是你啊！",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "连这种地方你都在寻找宝可梦，",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "真是相当热心呢！",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你问我吗？",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我有个认识的博士偶尔会来百代市，",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "他会告诉我有关宝可梦的各种传闻。",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 32,
+      "labelName": "msg_c04r0205_doctor_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "会钻进电器里的宝可梦啊……",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "嗯……",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这和我听说过的有些不一样呢……",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "嗯……就我所知的内容是这样的。",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "很久以前，有一只宝可梦钻进",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "玩具机器人里后，就没有出来过了。",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "大家本来想好好议论一下，",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要不要把它看作是新的宝可梦。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那只机器人宝可梦却消失不见了……",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 33,
+      "labelName": "msg_01_rotomnote_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里放着一本不知是多久以前的旧笔记……",
+          "strWidth": 608.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要看一下里面的内容吗？",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 34,
+      "labelName": "msg_01_rotomnote_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我和它的相遇非常突然。",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "当我找到丢失的玩具机器人时，",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "有只宝可梦从割草机马达里边跳了出来。",
+          "strWidth": 576.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "于是我就那样拿着机器人，",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "并盯着那只宝可梦……",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 35,
+      "labelName": "msg_01_rotomnote_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那只宝可梦就那样轻飘飘地浮在半空，",
+          "strWidth": 544.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "一脸不可思议地靠近我。",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "它似乎正放着电，让周围的",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "空气发出仿佛要裂开的噼啪响……",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "正当我想着，它再靠近的话，",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我的脸也要被电到了的时候，",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那只宝可梦却好像笑了起来。",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 36,
+      "labelName": "msg_01_rotomnote_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "就在那一刻，我明白了，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我和它可以成为朋友。",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我决定把这只奇妙的宝可梦",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "称呼为“洛托姆”。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "原因很简单，因为它是",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "从割草机的马达里出现的嘛。",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Motor和Rotom……",
+          "strWidth": 299.28125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "应该能懂其中的关联吧？",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 37,
+      "labelName": "msg_01_rotomnote_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "洛托姆是一种很棒的宝可梦哦！",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "它可以让自己无影无踪，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "但更厉害的，是它可以",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "进入各种机器里面！",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "并且，它还能让它",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "钻进去的机器动起来哦！",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……好像已经看到一半了，",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要继续看吗？",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 38,
+      "labelName": "msg_01_rotomnote_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我和洛托姆，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无论何时都形影不离。",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "虽然它身上放出的电",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "让我不能触摸或拥抱它，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "但是我不在意！",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "因为我和洛托姆的心，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "一直都紧紧相连着。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 39,
+      "labelName": "msg_01_rotomnote_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "某天，发生了这样一件事。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我看着浮在半空的洛托姆，",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "打算一反往常地吓一下它。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "结果……洛托姆大概是惊吓过度，",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "它身上放出了比平时更大范围的电，",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "于是我就被电晕了过去……",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 40,
+      "labelName": "msg_01_rotomnote_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "等我醒过来后，发现洛托姆不在身边，",
+          "strWidth": 544.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "于是我拼命地四处寻找它。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "（不用放在心上啊。）",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "（我完全没事的哦。）",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "（我们还像以前那样一起玩吧。）",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我有好多话想说，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "但却找不到那个愿意倾听的朋友了……",
+          "strWidth": 544.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 41,
+      "labelName": "msg_01_rotomnote_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这是我在寻找洛托姆时发生的事情。",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我在垃圾场找到了一个玩具机器人。",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我和这个机器人对上了视线，",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不知为什么它竟然向我挥手。",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我瞬间明白，那就是洛托姆，",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我向洛托姆飞奔过去，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "用全身的力量抱住了它，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "就这样我和它说了好多好多话。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……要继续看吗？",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 42,
+      "labelName": "msg_01_rotomnote_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每当我说话时，机器人的眼睛",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "就开心地放出了光芒……",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我想一定是因为里边的洛托姆",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "放出了很多的电吧。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那时我感觉，自己比以往",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "更加了解洛托姆了。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "并且，我还明白了一件事，",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我们会一直在一起。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……笔记上的内容到这一页就结束了。",
+          "strWidth": 544.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 43,
+      "labelName": "msg_01_rotomnote_19",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 9,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使用了",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "持有的",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 44,
+      "labelName": "msg_01_rotomnote_20",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "是秘密房间的入口！",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 45,
+      "labelName": "msg_c04r0205_rotom_14",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择洛托姆。",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 46,
+      "labelName": "msg_c04r0205_rotom_15_1",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "可以选择",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 47,
+      "labelName": "msg_c04r0205_rotom_15_2",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法选择",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 48,
+      "labelName": "msg_c04r0205_rotom_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "进入马达中了！",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "想要学习",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "但是",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已经学习了４个招式！",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "为了学习",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要忘记其他的招式吗？",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 49,
+      "labelName": "msg_c04r0205_rotom_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那么，要放弃学习",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 50,
+      "labelName": "msg_c04r0205_rotom_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "没有学习",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "就结束了！",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "从马达中出来了！",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 51,
+      "labelName": "msg_c04r0205_rotom_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "确定要忘记",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 52,
+      "labelName": "msg_c04r0205_rotom_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "１",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "，２",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "…",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "…",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "空！",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 53,
+      "labelName": "msg_c04r0205_rotom_05_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "把",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使用方法忘得干干净净了！",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "于是……！",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 54,
+      "labelName": "msg_c04r0205_rotom_05_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "学会了",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 55,
+      "labelName": "msg_c04r0205_rotom_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "进入马达中了！",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 56,
+      "labelName": "msg_c04r0205_rotom_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "从马达中出来了！",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 57,
+      "labelName": "msg_c04r0205_doctor_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不过，",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这只叫做洛托姆的宝可梦……",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "还真是奇特啊。",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "它会钻进电器里面……",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "或者该说是和电器进行部分融合，",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "然后学会新的招式吗？",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "换句话说，",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "它是种机器般的宝可梦。",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "嗯……！",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "虽然它极其特殊，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这也是宝可梦的一种样子吧。",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "原来如此，原来如此！",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无论活到多少岁，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "都会有宝可梦的新发现！",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那么，",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，你保重啊！",
+          "strWidth": 192.0
+        }
+      ]
+    }
+  ]
+}

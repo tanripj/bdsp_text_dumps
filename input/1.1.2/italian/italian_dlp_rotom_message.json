@@ -1,0 +1,3570 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "italian_dlp_rotom_message",
+  "hash": -1408684488,
+  "langID": 4,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 7,
+      "arrayIndex": 0,
+      "labelName": "msg_c04r0205_rotom_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quale Rotom scegli?",
+          "strWidth": 268.546875
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 1,
+      "labelName": "msg_c04r0205_rotom_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Un Uovo non può entrare in un apparecchio",
+          "strWidth": 571.1406
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "elettrico.",
+          "strWidth": 116.09375
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 2,
+      "labelName": "msg_c04r0205_rotom_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Questo Pokémon non può entrare",
+          "strWidth": 439.484375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "in un apparecchio elettrico.",
+          "strWidth": 355.421875
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 3,
+      "labelName": "msg_c04r0205_rotom_11",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quale Rotom vuoi riportare alla sua forma",
+          "strWidth": 545.6094
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "originale?",
+          "strWidth": 127.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 4,
+      "labelName": "msg_c04r0205_rotom_12",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh? Sembra che Rotom voglia assumere",
+          "strWidth": 520.6719
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di nuovo la sua forma originale.",
+          "strWidth": 408.609375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi farlo uscire dall’apparecchio elettrico?",
+          "strWidth": 567.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 5,
+      "labelName": "msg_c04r0205_rotom_13",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Fallo uscire",
+          "strWidth": 147.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 6,
+      "labelName": "msg_c04r0205_rotom_13_1",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sì",
+          "strWidth": 23.0625
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 7,
+      "labelName": "msg_c04r0205_rotom_13_2",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "No",
+          "strWidth": 38.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 8,
+      "labelName": "msg_c04r0205_rotom_13_3",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Questo Rotom non è entrato in",
+          "strWidth": 403.9375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "un apparecchio elettrico.",
+          "strWidth": 323.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 9,
+      "labelName": "msg_c04r0205_rotom_13_4",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "C’era un elettrodomestico qui.",
+          "strWidth": 395.578125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Aveva un motore elettrico con una forma strana.",
+          "strWidth": 625.3281
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 10,
+      "labelName": "msg_c04r0205_range_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un forno a microonde. Ha un motore elettrico",
+          "strWidth": 615.3281
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 11,
+      "labelName": "msg_c04r0205_range_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un forno a microonde. Ha un motore elettrico",
+          "strWidth": 615.3281
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh! Sembra che Rotom voglia entrarci.",
+          "strWidth": 500.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi accontentarlo?",
+          "strWidth": 260.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 12,
+      "labelName": "msg_c04r0205_range_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pur riluttante, Rotom ha rinunciato a entrare",
+          "strWidth": 571.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nel forno a microonde...",
+          "strWidth": 310.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 13,
+      "labelName": "msg_c04r0205_range_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Il forno a microonde è stato aggiunto",
+          "strWidth": 483.5625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "al Catalogo Rotom!",
+          "strWidth": 251.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 14,
+      "labelName": "msg_c04r0205_freezer_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un frigorifero. Ha un motore elettrico",
+          "strWidth": 506.484375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 15,
+      "labelName": "msg_c04r0205_freezer_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un frigorifero. Ha un motore elettrico",
+          "strWidth": 506.484375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh! Sembra che Rotom voglia entrarci.",
+          "strWidth": 500.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi accontentarlo?",
+          "strWidth": 260.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 16,
+      "labelName": "msg_c04r0205_freezer_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pur riluttante, Rotom ha rinunciato a entrare",
+          "strWidth": 571.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nel frigorifero...",
+          "strWidth": 201.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 17,
+      "labelName": "msg_c04r0205_freezer_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Il frigorifero è stato aggiunto al Catalogo Rotom!",
+          "strWidth": 634.9531
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 18,
+      "labelName": "msg_c04r0205_washer_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È una lavatrice. Ha un motore elettrico",
+          "strWidth": 501.28125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 19,
+      "labelName": "msg_c04r0205_washer_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È una lavatrice. Ha un motore elettrico",
+          "strWidth": 501.28125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh! Sembra che Rotom voglia entrarci.",
+          "strWidth": 500.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi accontentarlo?",
+          "strWidth": 260.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 20,
+      "labelName": "msg_c04r0205_washer_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pur riluttante, Rotom ha rinunciato a entrare",
+          "strWidth": 571.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nella lavatrice...",
+          "strWidth": 204.484375
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 21,
+      "labelName": "msg_c04r0205_washer_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "La lavatrice è stata aggiunta al Catalogo Rotom!",
+          "strWidth": 624.8281
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 22,
+      "labelName": "msg_c04r0205_fan_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un ventilatore. Ha un motore elettrico",
+          "strWidth": 515.4844
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 23,
+      "labelName": "msg_c04r0205_fan_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un ventilatore. Ha un motore elettrico",
+          "strWidth": 515.4844
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh! Sembra che Rotom voglia entrarci.",
+          "strWidth": 500.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi accontentarlo?",
+          "strWidth": 260.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 24,
+      "labelName": "msg_c04r0205_fan_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pur riluttante, Rotom ha rinunciato a entrare",
+          "strWidth": 571.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nel ventilatore...",
+          "strWidth": 210.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 25,
+      "labelName": "msg_c04r0205_fan_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Il ventilatore è stato aggiunto al Catalogo",
+          "strWidth": 543.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rotom!",
+          "strWidth": 91.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 26,
+      "labelName": "msg_c04r0205_lawnmower_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È una falciatrice. Ha un motore elettrico",
+          "strWidth": 518.53125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 27,
+      "labelName": "msg_c04r0205_lawnmower_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È una falciatrice. Ha un motore elettrico",
+          "strWidth": 518.53125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "con una forma strana.",
+          "strWidth": 279.046875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Oh! Sembra che Rotom voglia entrarci.",
+          "strWidth": 500.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi accontentarlo?",
+          "strWidth": 260.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 28,
+      "labelName": "msg_c04r0205_lawnmower_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pur riluttante, Rotom ha rinunciato a entrare",
+          "strWidth": 571.09375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nella falciatrice...",
+          "strWidth": 221.734375
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 29,
+      "labelName": "msg_c04r0205_lawnmower_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "La falciatrice è stata aggiunta al Catalogo",
+          "strWidth": 541.4375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rotom!",
+          "strWidth": 91.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 30,
+      "labelName": "msg_c04r0205_book_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "C’è un taccuino misterioso qui.",
+          "strWidth": 399.390625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Chissà quando è stato scritto...",
+          "strWidth": 398.359375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Per puro caso ho rinvenuto delle informazioni",
+          "strWidth": 599.71875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "sul Pokémon Rotom.",
+          "strWidth": 264.5
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Questo Pokémon ha la straordinaria abilità",
+          "strWidth": 554.1875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di entrare nei motori elettrici.",
+          "strWidth": 381.796875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ho potuto accertare che Rotom è in grado",
+          "strWidth": 551.84375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di entrare in diversi apparecchi elettrici,",
+          "strWidth": 516.6094
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "cambiando forma di conseguenza e assumendo",
+          "strWidth": 609.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "le caratteristiche dell’elettrodomestico",
+          "strWidth": 500.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "in cui è entrato.",
+          "strWidth": 203.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ho potuto anche constatare che il suo tipo",
+          "strWidth": 555.2031
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "e le sue mosse cambiano a seconda della forma",
+          "strWidth": 616.6406
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "assunta.",
+          "strWidth": 102.734375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Si tratta di un Pokémon che richiede analisi",
+          "strWidth": 559.6875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "e studi approfonditi.",
+          "strWidth": 264.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Affinché io possa ottenere il riconoscimento",
+          "strWidth": 570.6406
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "che mi spetta, la mia ricerca su Rotom deve",
+          "strWidth": 564.0469
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "rimanere segreta.",
+          "strWidth": 223.671875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ma un giorno il mondo intero si ricorderà di me,",
+          "strWidth": 622.8906
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "il genio della scienza Plu...\"",
+          "strWidth": 353.6875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Gli appunti finiscono qui.",
+          "strWidth": 327.640625
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 31,
+      "labelName": "msg_c04r0205_doctor_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ah, sapevo di trovarti qui!",
+          "strWidth": 336.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Devi avere una gran voglia di riempire",
+          "strWidth": 495.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "il tuo Pokédex se hai deciso di svolgere",
+          "strWidth": 513.46875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "delle ricerche anche in questo posto.",
+          "strWidth": 478.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mmmh? Vuoi sapere cosa faccio io?",
+          "strWidth": 465.71875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ogni tanto vado a trovare un Professore",
+          "strWidth": 520.6875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "mio amico a Evopoli.",
+          "strWidth": 270.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mi mette al corrente di voci sulle apparizioni",
+          "strWidth": 579.7656
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di Pokémon rari e altri eventi interessanti.",
+          "strWidth": 538.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 32,
+      "labelName": "msg_c04r0205_doctor_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Un Pokémon che si infila dentro gli apparecchi",
+          "strWidth": 604.6406
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "elettrici, dici...",
+          "strWidth": 186.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mmmh...",
+          "strWidth": 110.71875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Differisce un po’ dalla versione che ho sentito io.",
+          "strWidth": 637.4844
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mmmh... Beh, ecco quello che so.",
+          "strWidth": 436.421875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Tanto tempo fa, un Pokémon si fuse con un robot",
+          "strWidth": 642.1719
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "giocattolo.",
+          "strWidth": 140.296875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non saprei dirti se quell’esemplare andasse",
+          "strWidth": 562.5
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "riconosciuto come una nuova specie o meno...",
+          "strWidth": 597.5
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quando la questione fu sul punto di suscitare",
+          "strWidth": 587.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "un acceso dibattito, si iniziò a dubitare della",
+          "strWidth": 576.6875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "sua veridicità.",
+          "strWidth": 178.078125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pare che l’oggetto della discussione, il Pokémon",
+          "strWidth": 627.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "fuso con il robot, svanì nel nulla...",
+          "strWidth": 437.359375
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 33,
+      "labelName": "msg_01_rotomnote_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È un vecchio taccuino. Non si sa quando sia",
+          "strWidth": 564.6406
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "stato scritto.",
+          "strWidth": 160.625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi leggerlo?",
+          "strWidth": 190.171875
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 34,
+      "labelName": "msg_01_rotomnote_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Il nostro fu un incontro improvviso.",
+          "strWidth": 461.296875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Accadde quando ritrovai il robot giocattolo",
+          "strWidth": 565.5469
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "che avevo perso.",
+          "strWidth": 218.875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Improvvisamente, con mia grande sorpresa, dal",
+          "strWidth": 609.7031
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "motore della falciatrice uscì fuori un Pokémon!",
+          "strWidth": 602.2969
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lo fissai esterrefatto mentre stringevo tra le mani",
+          "strWidth": 634.9219
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "il mio robot...\"",
+          "strWidth": 185.890625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 35,
+      "labelName": "msg_01_rotomnote_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Il Pokémon fluttuava in aria, come sostenuto",
+          "strWidth": 586.2656
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "da una forza sconosciuta.",
+          "strWidth": 327.21875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Incuriosito e per nulla spaventato dalla mia",
+          "strWidth": 558.4375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "presenza, si avvicinò a me.",
+          "strWidth": 344.15625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Emetteva dei crepitii, come se l’aria fosse satura",
+          "strWidth": 625.125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di elettricità statica.",
+          "strWidth": 257.890625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Incredibile a dirsi, ma sembrava che questa",
+          "strWidth": 557.8594
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "energia scaturisse proprio da quel Pokémon!",
+          "strWidth": 574.1406
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Indietreggiai impaurito, certo che uno shock",
+          "strWidth": 572.1094
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "elettrico avrebbe colpito il mio volto.",
+          "strWidth": 484.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Con mia grande sorpresa, il Pokémon sembrò",
+          "strWidth": 586.78125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "rivolgermi un sorriso\".",
+          "strWidth": 279.78125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 36,
+      "labelName": "msg_01_rotomnote_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Alla fine, capii che quel Pokémon voleva solo",
+          "strWidth": 601.59375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "stringere amicizia con me.",
+          "strWidth": 334.609375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Decisi di chiamare ’Rotom’ questo esemplare",
+          "strWidth": 585.125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "straordinario.",
+          "strWidth": 171.421875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Potrebbe sembrare un nome banale, ma d’altra",
+          "strWidth": 610.4219
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "parte Rotom è apparso uscendo dal motore",
+          "strWidth": 564.4375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di una falciatrice.",
+          "strWidth": 223.53125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Motore elettrico e Rotom... Il legame è",
+          "strWidth": 506.640625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "abbastanza chiaro, no?\"",
+          "strWidth": 309.171875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 37,
+      "labelName": "msg_01_rotomnote_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Rotom è un Pokémon semplicemente",
+          "strWidth": 489.921875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "sensazionale.",
+          "strWidth": 170.203125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Può rendersi invisibile, ma questo non è",
+          "strWidth": 515.5625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "che l’inizio.",
+          "strWidth": 147.28125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ciò che rende unico Rotom è la sua abilità",
+          "strWidth": 551.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "di entrare negli apparecchi elettrici e azionarli!\"",
+          "strWidth": 615.6094
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Sei circa a metà del racconto.",
+          "strWidth": 416.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi continuare a leggere?",
+          "strWidth": 350.265625
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 38,
+      "labelName": "msg_01_rotomnote_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Rotom e io diventammo subito amici e",
+          "strWidth": 508.921875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "compagni inseparabili.",
+          "strWidth": 290.75
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ma l’elettricità sprigionata dal suo corpo non",
+          "strWidth": 585.2031
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "mi permetteva di toccarlo.",
+          "strWidth": 341.140625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non potevamo abbracciarci o tenerci per mano,",
+          "strWidth": 621.2344
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ma non ci importava.",
+          "strWidth": 270.921875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Perché eravamo uniti da un legame spirituale",
+          "strWidth": 582.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "molto profondo\".",
+          "strWidth": 223.125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 39,
+      "labelName": "msg_01_rotomnote_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Un giorno mi sentivo in vena di scherzi.",
+          "strWidth": 518.15625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mentre Rotom fluttuava, decisi di farlo",
+          "strWidth": 502.046875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "sussultare. Normalmente non l’avrei fatto.",
+          "strWidth": 539.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Forse per via dello spavento, Rotom rilasciò",
+          "strWidth": 569.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "una scarica di elettricità molto più potente",
+          "strWidth": 551.9531
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "del normale.",
+          "strWidth": 161.765625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Caddi al suolo, stordito, e perdetti i sensi...\"",
+          "strWidth": 572.8125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 40,
+      "labelName": "msg_01_rotomnote_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Quando tornai in me, mi accorsi con orrore",
+          "strWidth": 568.125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "che Rotom era scomparso.",
+          "strWidth": 341.265625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Cercai il mio amico in ogni dove, in preda",
+          "strWidth": 543.3906
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "alla più profonda amarezza e disperazione.",
+          "strWidth": 557.1875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "’Non sentirti responsabile!’",
+          "strWidth": 347.203125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "’È colpa mia. Tu non hai fatto nulla!’",
+          "strWidth": 470.265625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "’Giochiamo come abbiamo sempre fatto!’",
+          "strWidth": 537.78125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Continuavo a gridare queste parole, ma il mio",
+          "strWidth": 595.1719
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "amico non era lì per sentirle...\"",
+          "strWidth": 396.125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 41,
+      "labelName": "msg_01_rotomnote_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"La ricerca di Rotom mi portò lontano da casa.",
+          "strWidth": 602.75
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Giunto alla discarica della città, trovai di nuovo",
+          "strWidth": 616.5
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "il mio robot giocattolo.",
+          "strWidth": 300.453125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "I nostri sguardi si incrociarono, e con mio grande",
+          "strWidth": 630.875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "stupore il robot alzò la mano a mo’ di saluto.",
+          "strWidth": 583.1406
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Capii di aver finalmente ritrovato il mio amico.",
+          "strWidth": 603.1406
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Corsi verso Rotom e lo abbracciai forte,",
+          "strWidth": 516.7969
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "continuando a parlargli\".",
+          "strWidth": 318.5625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "... Vuoi continuare a leggere?",
+          "strWidth": 382.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 42,
+      "labelName": "msg_01_rotomnote_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "\"Mentre lo tenevo tra le mie braccia, gli occhi",
+          "strWidth": 593.71875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "del robot si illuminarono di felicità.",
+          "strWidth": 455.109375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sono sicuro che al suo interno Rotom stesse",
+          "strWidth": 567.1719
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "emettendo un’enorme scarica di elettricità.",
+          "strWidth": 556.5156
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non so come, ma mi resi conto di capire",
+          "strWidth": 522.6406
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "i pensieri di Rotom come non mi era mai",
+          "strWidth": 522.71875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "successo prima.",
+          "strWidth": 200.265625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "E realizzai anche che saremmo rimasti amici",
+          "strWidth": 561.7031
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "per il resto della nostra vita...\"",
+          "strWidth": 390.765625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Gli appunti finiscono qui...",
+          "strWidth": 343.453125
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 43,
+      "labelName": "msg_01_rotomnote_19",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 21,
+          "tagID": 3,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 1,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 9,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hai usato ",
+          "strWidth": 131.859375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 44,
+      "labelName": "msg_01_rotomnote_20",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "È l’entrata di una stanza segreta!",
+          "strWidth": 421.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 45,
+      "labelName": "msg_c04r0205_rotom_14",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Scegli un Rotom.",
+          "strWidth": 218.0625
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 46,
+      "labelName": "msg_c04r0205_rotom_15_1",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Selezionabile",
+          "strWidth": 172.453125
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 47,
+      "labelName": "msg_c04r0205_rotom_15_2",
+      "styleInfo": {
+        "styleIndex": 51,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Non selezionabile",
+          "strWidth": 231.546875
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 48,
+      "labelName": "msg_c04r0205_rotom_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " è entrato nel motore.",
+          "strWidth": 284.34375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " vorrebbe imparare",
+          "strWidth": 247.78125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ", ma conosce già",
+          "strWidth": 217.234375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "quattro mosse.",
+          "strWidth": 190.515625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi che ne dimentichi una e al suo posto",
+          "strWidth": 543.59375
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "impari ",
+          "strWidth": 88.8125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "?",
+          "strWidth": 14.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 49,
+      "labelName": "msg_c04r0205_rotom_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi rinunciare a insegnare la mossa",
+          "strWidth": 470.125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "?",
+          "strWidth": 14.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 50,
+      "labelName": "msg_c04r0205_rotom_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " non ha imparato la mossa",
+          "strWidth": 338.859375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ed è uscito dal motore.",
+          "strWidth": 309.40625
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 51,
+      "labelName": "msg_c04r0205_rotom_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vuoi davvero fargli dimenticare la mossa",
+          "strWidth": 526.4844
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "?",
+          "strWidth": 14.46875
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 52,
+      "labelName": "msg_c04r0205_rotom_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "Uno,",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": " due",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": " e",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.199999988,
+          "str": "...",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ta-daaa!",
+          "strWidth": 115.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 53,
+      "labelName": "msg_c04r0205_rotom_05_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " dimentica",
+          "strWidth": 134.734375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Al suo posto...",
+          "strWidth": 186.34375
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 54,
+      "labelName": "msg_c04r0205_rotom_05_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " impara",
+          "strWidth": 96.5
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 55,
+      "labelName": "msg_c04r0205_rotom_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " è entrato nel motore!",
+          "strWidth": 283.703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 56,
+      "labelName": "msg_c04r0205_rotom_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " è uscito dal motore!",
+          "strWidth": 266.84375
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 57,
+      "labelName": "msg_c04r0205_doctor_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Certo che questo Rotom è un Pokémon",
+          "strWidth": 509.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "davvero singolare...",
+          "strWidth": 252.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Entra negli apparecchi elettrici, di fatto",
+          "strWidth": 509.390625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "fondendosi con loro, e così facendo può",
+          "strWidth": 525.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "anche imparare nuove mosse!",
+          "strWidth": 380.34375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "In un certo senso, lo si potrebbe considerare",
+          "strWidth": 577.4219
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "una sorta di Pokémon meccanico.",
+          "strWidth": 433.46875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mmmh...",
+          "strWidth": 110.71875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Per quanto assolutamente unico, rimane",
+          "strWidth": 517.53125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "comunque un Pokémon.",
+          "strWidth": 309.890625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Interessante, davvero interessante!",
+          "strWidth": 447.234375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Quando si studiano i Pokémon, non importa",
+          "strWidth": 570.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "quanti anni passino... non si finisce mai di fare",
+          "strWidth": 595.1094
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "nuove scoperte!",
+          "strWidth": 205.8125
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "A presto, ",
+          "strWidth": 127.890625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "!",
+          "strWidth": 7.265625
+        }
+      ]
+    }
+  ]
+}

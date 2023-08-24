@@ -1,0 +1,1440 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "simp_chinese_ss_btl_tower_menu_ui_text",
+  "hash": 1983844876,
+  "langID": 9,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "msg_tower_receptionist_14",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择战斗规则和宝可梦。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "msg_tower_receptionist_15",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "那么这边请！",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "msg_tower_receptionist_00",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "欢迎来到对战塔，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这里是接待中心！",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "msg_tower_receptionist_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请问您想做些什么？",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "msg_tower_receptionist_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要继续战斗吗？",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "msg_tower_receptionist_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "辛苦了！",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "随时恭候您再次光临。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "msg_tower_receptionist_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "真是太遗憾了。",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "随时恭候您再次前来挑战。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "msg_tower_receptionist_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 0,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "恭喜您！",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "级别上升到了",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "msg_tower_receptionist_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这是您级别上升的奖励！",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "msg_tower_receptionist_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已解锁盒子的评定功能！",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "msg_tower_receptionist_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已解锁在对战塔可选的战斗音乐！",
+          "strWidth": 480.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "msg_tower_description_00",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "对战塔正如其名，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "是一个进行宝可梦对战的设施。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在对战塔里，可以按照和级别对战",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "相同的规则来进行训练家对战。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "如果获胜的话，",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "就能获得神奇糖果和ＢＰ。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请随意挑战，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "磨炼您的对战技术吧。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "msg_tower_choice_00",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "挑战",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "msg_tower_choice_01",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "听说明",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "msg_tower_choice_02",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "退出",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "msg_tower_choice_03",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "继续",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 16,
+      "labelName": "msg_tower_info_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 3,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "获得了",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ＢＰ的对战点数！",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 17,
+      "labelName": "msg_tower_rental_choice_00",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "想要租用！",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 18,
+      "labelName": "msg_tower_rental_choice_01",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不用了",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 19,
+      "labelName": "msg_tower_rental_choice_02",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "租用该队伍",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 20,
+      "labelName": "msg_tower_rental_choice_03",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这是一支什么样的队伍？",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 21,
+      "labelName": "msg_tower_rental_choice_04",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "查看其他队伍",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 22,
+      "labelName": "msg_tower_rental_talk_00",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你想租用我的对战队伍吗？",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 23,
+      "labelName": "msg_tower_rental_talk_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "如果想要租用，",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "欢迎随时来找我。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 24,
+      "labelName": "msg_tower_rental_talk_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你想租用哪个队伍呢？",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 25,
+      "labelName": "msg_tower_rental_talk_03",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "好像没有空位啊。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 26,
+      "labelName": "msg_tower_rental_talk_04",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你想看看这个对战队伍吗？",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 27,
+      "labelName": "msg_tower_rental_talk_05",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "尽管拿去用吧！",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 28,
+      "labelName": "msg_tower_rental_talk_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你已经租用这个队伍了。",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 29,
+      "labelName": "msg_tower_rental_team_00",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "基本队伍",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 30,
+      "labelName": "msg_tower_rental_team_01",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "技巧队伍",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 31,
+      "labelName": "msg_tower_rental_team_02",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "坦率队伍",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 32,
+      "labelName": "msg_tower_rental_team_03",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "雨天队伍",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 33,
+      "labelName": "msg_tower_rental_team_04",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "慢速队伍",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 34,
+      "labelName": "msg_tower_rental_team_05",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "退出",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 35,
+      "labelName": "msg_tower_receptionist_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 0,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "级别达到了",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 36,
+      "labelName": "msg_tower_receptionist_12",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "您的级别下降了……",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 37,
+      "labelName": "mes_tower_rental_system",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 57,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "租用了对战队伍",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 38,
+      "labelName": "msg_tower_choice_04",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "休息",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 39,
+      "labelName": "msg_tower_choice_05",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "暂停",
+          "strWidth": 64.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_kanji_dlp_park_info",
+  "hash": 1136183212,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 1,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "DLP_PARK_INFO_000",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "DLP_PARK_INFO_001",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力を　感じる　小さな欠片。",
+          "strWidth": 556.1
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "欠片の　中に　ハマナスの　花の",
+          "strWidth": 478.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ような　模様が　浮かんでいる。",
+          "strWidth": 460.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "DLP_PARK_INFO_002",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力を　感じる　大きな欠片。",
+          "strWidth": 556.1
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "欠片の　中に　ハマナスの　花の",
+          "strWidth": 478.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ような　模様が　浮かんでいる。",
+          "strWidth": 460.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "DLP_PARK_INFO_003",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　導きの部屋と",
+          "strWidth": 475.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "DLP_PARK_INFO_004",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "DLP_PARK_INFO_005",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "DLP_PARK_INFO_006",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "DLP_PARK_INFO_007",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　カントーの部屋と",
+          "strWidth": 534.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "DLP_PARK_INFO_008",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "DLP_PARK_INFO_009",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "DLP_PARK_INFO_010",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "DLP_PARK_INFO_011",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　ジョウトの部屋と",
+          "strWidth": 531.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "DLP_PARK_INFO_012",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "DLP_PARK_INFO_013",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "DLP_PARK_INFO_014",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "DLP_PARK_INFO_015",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　心の部屋と",
+          "strWidth": 444.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "DLP_PARK_INFO_016",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "DLP_PARK_INFO_017",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "DLP_PARK_INFO_018",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　虹の部屋と",
+          "strWidth": 444.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "DLP_PARK_INFO_019",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "DLP_PARK_INFO_020",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　嵐の部屋と",
+          "strWidth": 444.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "DLP_PARK_INFO_021",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "DLP_PARK_INFO_022",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　大海の部屋と",
+          "strWidth": 476.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "DLP_PARK_INFO_023",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "DLP_PARK_INFO_024",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　大陸の部屋と",
+          "strWidth": 476.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "DLP_PARK_INFO_025",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "DLP_PARK_INFO_026",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　天空の部屋と",
+          "strWidth": 476.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "DLP_PARK_INFO_027",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "DLP_PARK_INFO_028",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　遺伝子の部屋と",
+          "strWidth": 508.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "DLP_PARK_INFO_029",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 30,
+      "labelName": "DLP_PARK_INFO_030",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不思議な　力に　あふれる　石板。",
+          "strWidth": 495.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハマナスパークの　破れた部屋と",
+          "strWidth": 476.050018
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "深い　つながりを　感じる。",
+          "strWidth": 394.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 31,
+      "labelName": "DLP_PARK_INFO_031",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギラティナに　持たせると　ドラゴンと",
+          "strWidth": 560.850037
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ゴーストタイプの　技の　威力が",
+          "strWidth": 470.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "あがる　光り　輝く　珠。",
+          "strWidth": 361.95
+        }
+      ]
+    }
+  ]
+}

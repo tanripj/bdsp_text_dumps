@@ -1,0 +1,2887 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_kanji_dlp_gmstation",
+  "hash": -1933890265,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 1,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "DLP_GMStation_001",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GMStationを　ご利用　いただくには",
+          "strWidth": 544.175
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Nintendo Switch Onlineへの",
+          "strWidth": 438.828125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "加入が　必要です",
+          "strWidth": 254.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "恐れ入りますが",
+          "strWidth": 220.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Nintendo Switch Onlineに",
+          "strWidth": 405.828125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ご加入　いただいた　あと",
+          "strWidth": 381.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "再度　お試しください",
+          "strWidth": 312.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "DLP_GMStation_002",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "通信　環境を",
+          "strWidth": 191.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "お確かめ　ください",
+          "strWidth": 283.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "DLP_GMStation_003",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GMStationを　終了　しますか？",
+          "strWidth": 476.175
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "DLP_GMStation_004",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "このマークを　削除　します",
+          "strWidth": 407.150024
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "よろしいですか？",
+          "strWidth": 245.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "DLP_GMStation_005",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GMStationでは　インターネットを",
+          "strWidth": 504.175
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "通して　世界中の　人と",
+          "strWidth": 344.900024
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンを　交換　できます",
+          "strWidth": 409.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どんなポケモンと　交換　されるかは",
+          "strWidth": 538.9
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンを　受け取るまで　わかりません",
+          "strWidth": 599.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "これを　ミラクル交換と　呼びます",
+          "strWidth": 502.100037
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミラクル交換　するときは",
+          "strWidth": 378.050018
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換に　出したい　ポケモンと",
+          "strWidth": 440.95
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地球儀の　好きな　ポイントを",
+          "strWidth": 438.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "選びます",
+          "strWidth": 126.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミラクル交換が　成立　すると",
+          "strWidth": 443.050018
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "自分の　地球儀に",
+          "strWidth": 255.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "相手の　ポケモンが",
+          "strWidth": 286.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マーク　されます",
+          "strWidth": 252.1
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "同じように　相手の　地球儀にも",
+          "strWidth": 475.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "あなたの　ポケモンが",
+          "strWidth": 318.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マーク　されます",
+          "strWidth": 252.1
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミラクル交換を　繰り返して",
+          "strWidth": 403.050049
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "あなただけの　地球儀を",
+          "strWidth": 351.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "完成　させてください！",
+          "strWidth": 330.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "DLP_GMStation_006",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "レポートを　書いて　ミラクル交換を",
+          "strWidth": 530.15
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "始めても　よろしいですか？",
+          "strWidth": 401.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "DLP_GMStation_007",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換できる　人を",
+          "strWidth": 252.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探しています……",
+          "strWidth": 248.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "DLP_GMStation_008",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "この　ポイントには",
+          "strWidth": 277.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "すでに　別の　ポケモンが",
+          "strWidth": 379.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マーク　されています",
+          "strWidth": 313.05
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "この　ポイントに　マークする",
+          "strWidth": 435.1
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンを　決めてください",
+          "strWidth": 405.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "DLP_GMStation_009",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "新しい　ポケモンが",
+          "strWidth": 283.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マーク　されました",
+          "strWidth": 281.1
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "DLP_GMStation_010",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　マークを",
+          "strWidth": 315.15
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "そのままに　しました",
+          "strWidth": 310.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "DLP_GMStation_011",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "詳しく　みる",
+          "strWidth": 185.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "DLP_GMStation_012",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "削除　する",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "DLP_GMStation_013",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "この　ポイントに　マークされている",
+          "strWidth": 527.050049
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンを　変更　します",
+          "strWidth": 377.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "よろしいですか？",
+          "strWidth": 245.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "DLP_GMStation_014",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "新たな　ポケモンを　マークしました",
+          "strWidth": 532.15
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "DLP_GMStation_015",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マークを　削除　しました",
+          "strWidth": 374.15
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "DLP_GMStation_016",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GMStation",
+          "strWidth": 167.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "DLP_GMStation_017",
+      "styleInfo": {
+        "styleIndex": 35,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 210,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "New",
+          "strWidth": 68.890625
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "DLP_GMStation_018",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポイント",
+          "strWidth": 120.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "DLP_GMStation_019",
+      "styleInfo": {
+        "styleIndex": 35,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 210,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "記録",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "DLP_GMStation_020",
+      "styleInfo": {
+        "styleIndex": 174,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 416,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "DLP_GMStation_021",
+      "styleInfo": {
+        "styleIndex": 165,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 96,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "♀",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "DLP_GMStation_022",
+      "styleInfo": {
+        "styleIndex": 165,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 96,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "♂",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "DLP_GMStation_023",
+      "styleInfo": {
+        "styleIndex": 169,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 224,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lv.",
+          "strWidth": 47.71875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "DLP_GMStation_024",
+      "styleInfo": {
+        "styleIndex": 169,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 224,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "No.",
+          "strWidth": 56.109375
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "DLP_GMStation_025",
+      "styleInfo": {
+        "styleIndex": 169,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 224,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "No.",
+          "strWidth": 56.109375
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "DLP_GMStation_026",
+      "styleInfo": {
+        "styleIndex": 174,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 416,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "DLP_GMStation_027",
+      "styleInfo": {
+        "styleIndex": 166,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 128,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "JPN",
+          "strWidth": 61.28125
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "DLP_GMStation_028",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ENG",
+          "strWidth": 70.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "DLP_GMStation_029",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "SPA",
+          "strWidth": 66.40625
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "DLP_GMStation_030",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "FRA",
+          "strWidth": 65.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 30,
+      "labelName": "DLP_GMStation_031",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GER",
+          "strWidth": 69.109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 31,
+      "labelName": "DLP_GMStation_032",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ITA",
+          "strWidth": 52.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 32,
+      "labelName": "DLP_GMStation_033",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "KOR",
+          "strWidth": 70.234375
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 33,
+      "labelName": "DLP_GMStation_034",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "CHT",
+          "strWidth": 67.546875
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 34,
+      "labelName": "DLP_GMStation_035",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "CHS",
+          "strWidth": 69.703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 35,
+      "labelName": "DLP_GMStation_036",
+      "styleInfo": {
+        "styleIndex": 155,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 3,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "/",
+          "strWidth": 12.796875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "/",
+          "strWidth": 12.796875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 36,
+      "labelName": "DLP_GMStation_037",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "/",
+          "strWidth": 12.796875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 37,
+      "labelName": "DLP_GMStation_038",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "回転",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 38,
+      "labelName": "DLP_GMStation_039",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "拡大",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 39,
+      "labelName": "DLP_GMStation_040",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "縮小",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 40,
+      "labelName": "DLP_GMStation_041",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GMStationを　使う",
+          "strWidth": 293.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 41,
+      "labelName": "DLP_GMStation_042",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "説明を　聞く",
+          "strWidth": 187.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 42,
+      "labelName": "DLP_GMStation_043",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "やめる",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 43,
+      "labelName": "DLP_GMStation_044",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換する",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 44,
+      "labelName": "DLP_GMStation_045",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地球儀を　みる",
+          "strWidth": 223.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 45,
+      "labelName": "DLP_GMStation_046",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "選ぶ",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 46,
+      "labelName": "DLP_GMStation_047",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "つよさを　みる",
+          "strWidth": 221.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 47,
+      "labelName": "DLP_GMStation_048",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はい",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 48,
+      "labelName": "DLP_GMStation_049",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いいえ",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 49,
+      "labelName": "DLP_GMStation_050",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "やめる",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 50,
+      "labelName": "DLP_GMStation_051",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換を　キャンセル　しました",
+          "strWidth": 436.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 51,
+      "labelName": "DLP_GMStation_052",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "相手が　見つかりませんでした",
+          "strWidth": 438.95
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 52,
+      "labelName": "DLP_GMStation_053",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換する　相手が　見つかりました！",
+          "strWidth": 524.95
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換を　開始します",
+          "strWidth": 283.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 53,
+      "labelName": "DLP_GMStation_054",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　記録が　いっぱいです",
+          "strWidth": 504.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入れ替える　ポケモンを　選んでください",
+          "strWidth": 598.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 54,
+      "labelName": "DLP_GMStation_055",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　記録を　入れ替えますか？",
+          "strWidth": 566.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 55,
+      "labelName": "DLP_GMStation_056",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　記録を　入れ替えました",
+          "strWidth": 537.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 56,
+      "labelName": "DLP_GMStation_057",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　記録を　そのままに　しますか？",
+          "strWidth": 656.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 57,
+      "labelName": "DLP_GMStation_058",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　記録を　そのままに　しました",
+          "strWidth": 627.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 58,
+      "labelName": "DLP_GMStation_059",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　マークを　そのままに　しますか？",
+          "strWidth": 686.15
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 59,
+      "labelName": "DLP_GMStation_060",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポイント　マーク達成！",
+          "strWidth": 330.1
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 60,
+      "labelName": "DLP_GMStation_061",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "すべての　マークを　コンプリート！",
+          "strWidth": 515.1
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 61,
+      "labelName": "DLP_GMStation_062",
+      "styleInfo": {
+        "styleIndex": 172,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 352,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ーーーーー",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 62,
+      "labelName": "DLP_GMStation_063",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ニックネーム",
+          "strWidth": 186.1
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 63,
+      "labelName": "DLP_GMStation_064",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "図鑑No.",
+          "strWidth": 120.109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 64,
+      "labelName": "DLP_GMStation_065",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "名前",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 65,
+      "labelName": "DLP_GMStation_066",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "タイプ",
+          "strWidth": 92.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 66,
+      "labelName": "DLP_GMStation_067",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "親",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 67,
+      "labelName": "DLP_GMStation_068",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 3,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 68,
+      "labelName": "DLP_GMStation_069",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 69,
+      "labelName": "DLP_GMStation_070",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マーク中",
+          "strWidth": 126.1
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 70,
+      "labelName": "DLP_GMStation_071",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "----/--/--",
+          "strWidth": 144.34375
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 71,
+      "labelName": "DLP_GMStation_072",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マーク　する",
+          "strWidth": 190.1
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 72,
+      "labelName": "DLP_GMStation_073",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　記録を　削除　しました",
+          "strWidth": 534.05
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 73,
+      "labelName": "DLP_GMStation_074",
+      "styleInfo": {
+        "styleIndex": 45,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 546,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンを",
+          "strWidth": 157.05
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交換　してみよう！",
+          "strWidth": 268.9
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 74,
+      "labelName": "DLP_GMStation_075",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "決定",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 75,
+      "labelName": "DLP_GMStation_076",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "戻る",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 76,
+      "labelName": "DLP_GMStation_077",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミラクル交換を　続けますか？",
+          "strWidth": 436.150024
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2751 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "simp_chinese_dlp_gmstation",
+  "hash": -1933890265,
+  "langID": 9,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "DLP_GMStation_001",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "想要利用GMStation，",
+          "strWidth": 329.4375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "需要加入Nintendo Switch Online。",
+          "strWidth": 541.75
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请在加入Nintendo Switch Online后",
+          "strWidth": 541.75
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "再来尝试。",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "DLP_GMStation_002",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请确认连接环境。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "DLP_GMStation_003",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要结束GMStation吗？",
+          "strWidth": 329.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "DLP_GMStation_004",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "确定要删除这个标记吗？",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "DLP_GMStation_005",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在GMStation，你可以通过网络",
+          "strWidth": 457.4375
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "与全世界的人交换宝可梦。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在接收到宝可梦之前，你不会知道",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "换到的是什么宝可梦。",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "我们称这为奇迹交换。",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在进行奇迹交换时，",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你可以选择想要交换的宝可梦，",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "以及地球仪上你喜欢的地点。",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "奇迹交换成立时，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "对方的宝可梦会被标记在",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你的地球仪上。",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "同样，你的宝可梦",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "也会被标记在对方的地球仪上。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "尝试反复进行奇迹交换，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "完成只属于你自己的地球仪吧！",
+          "strWidth": 448.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "DLP_GMStation_006",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要在写入记录后开始奇迹交换吗？",
+          "strWidth": 480.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "DLP_GMStation_007",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "正在搜寻可以交换的对象……",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "DLP_GMStation_008",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这个地点上已经标记了别的宝可梦。",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请决定要标记在这个地点上的宝可梦。",
+          "strWidth": 544.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "DLP_GMStation_009",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "新的宝可梦被标记下来了。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "DLP_GMStation_010",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已维持宝可梦的标记。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "DLP_GMStation_011",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "查看详情",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "DLP_GMStation_012",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "删除",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "DLP_GMStation_013",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "将更改这个地点",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "所标记的宝可梦。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "确定要继续吗？",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "DLP_GMStation_014",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "标记了新的宝可梦。",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "DLP_GMStation_015",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已删除标记。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "DLP_GMStation_016",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GMStation",
+          "strWidth": 169.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "DLP_GMStation_017",
+      "styleInfo": {
+        "styleIndex": 35,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 210,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "New",
+          "strWidth": 75.25
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "DLP_GMStation_018",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地点",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "DLP_GMStation_019",
+      "styleInfo": {
+        "styleIndex": 35,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 210,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "记录",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "DLP_GMStation_020",
+      "styleInfo": {
+        "styleIndex": 174,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 416,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "DLP_GMStation_021",
+      "styleInfo": {
+        "styleIndex": 165,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 96,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "♀",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "DLP_GMStation_022",
+      "styleInfo": {
+        "styleIndex": 165,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 96,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "♂",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "DLP_GMStation_023",
+      "styleInfo": {
+        "styleIndex": 169,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 224,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lv.",
+          "strWidth": 40.90625
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "DLP_GMStation_024",
+      "styleInfo": {
+        "styleIndex": 169,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 224,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "No.",
+          "strWidth": 56.59375
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "DLP_GMStation_025",
+      "styleInfo": {
+        "styleIndex": 169,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 224,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "No.",
+          "strWidth": 56.59375
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "DLP_GMStation_026",
+      "styleInfo": {
+        "styleIndex": 174,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 416,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "DLP_GMStation_027",
+      "styleInfo": {
+        "styleIndex": 166,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 128,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "JPN",
+          "strWidth": 62.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "DLP_GMStation_028",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ENG",
+          "strWidth": 72.875
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "DLP_GMStation_029",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "SPA",
+          "strWidth": 61.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "DLP_GMStation_030",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "FRA",
+          "strWidth": 63.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 30,
+      "labelName": "DLP_GMStation_031",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "GER",
+          "strWidth": 65.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 31,
+      "labelName": "DLP_GMStation_032",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ITA",
+          "strWidth": 53.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 32,
+      "labelName": "DLP_GMStation_033",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "KOR",
+          "strWidth": 69.625
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 33,
+      "labelName": "DLP_GMStation_034",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "CHT",
+          "strWidth": 68.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 34,
+      "labelName": "DLP_GMStation_035",
+      "styleInfo": {
+        "styleIndex": 167,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 160,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "CHS",
+          "strWidth": 65.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 35,
+      "labelName": "DLP_GMStation_036",
+      "styleInfo": {
+        "styleIndex": 155,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 3,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "/",
+          "strWidth": 16.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "/",
+          "strWidth": 16.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 36,
+      "labelName": "DLP_GMStation_037",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "/",
+          "strWidth": 16.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 37,
+      "labelName": "DLP_GMStation_038",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "旋转",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 38,
+      "labelName": "DLP_GMStation_039",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "放大",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 39,
+      "labelName": "DLP_GMStation_040",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "缩小",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 40,
+      "labelName": "DLP_GMStation_041",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "利用GMStation",
+          "strWidth": 233.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 41,
+      "labelName": "DLP_GMStation_042",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "听说明",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 42,
+      "labelName": "DLP_GMStation_043",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "退出",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 43,
+      "labelName": "DLP_GMStation_044",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交换",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 44,
+      "labelName": "DLP_GMStation_045",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "查看地球仪",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 45,
+      "labelName": "DLP_GMStation_046",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "选择",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 46,
+      "labelName": "DLP_GMStation_047",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "查看能力",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 47,
+      "labelName": "DLP_GMStation_048",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "是",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 48,
+      "labelName": "DLP_GMStation_049",
+      "styleInfo": {
+        "styleIndex": 42,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "否",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 49,
+      "labelName": "DLP_GMStation_050",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "取消",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 50,
+      "labelName": "DLP_GMStation_051",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已取消交换。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 51,
+      "labelName": "DLP_GMStation_052",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "没有找到对象。",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 52,
+      "labelName": "DLP_GMStation_053",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已找到交换对象！",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "开始交换。",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 53,
+      "labelName": "DLP_GMStation_054",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "宝可梦的记录已满，",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择想要替换的宝可梦。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 54,
+      "labelName": "DLP_GMStation_055",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要替换宝可梦的记录吗？",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 55,
+      "labelName": "DLP_GMStation_056",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已替换宝可梦的记录。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 56,
+      "labelName": "DLP_GMStation_057",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要维持宝可梦的记录吗？",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 57,
+      "labelName": "DLP_GMStation_058",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已维持宝可梦的记录。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 58,
+      "labelName": "DLP_GMStation_059",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要维持宝可梦的标记吗？",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 59,
+      "labelName": "DLP_GMStation_060",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "达成标记",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "个地点！",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 60,
+      "labelName": "DLP_GMStation_061",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "完成标记所有地点！",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 61,
+      "labelName": "DLP_GMStation_062",
+      "styleInfo": {
+        "styleIndex": 172,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 352,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ーーーーー",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 62,
+      "labelName": "DLP_GMStation_063",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "昵称",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 63,
+      "labelName": "DLP_GMStation_064",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "图鉴No.",
+          "strWidth": 120.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 64,
+      "labelName": "DLP_GMStation_065",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "名字",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 65,
+      "labelName": "DLP_GMStation_066",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "属性",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 66,
+      "labelName": "DLP_GMStation_067",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "初训家",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 67,
+      "labelName": "DLP_GMStation_068",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 3,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 68,
+      "labelName": "DLP_GMStation_069",
+      "styleInfo": {
+        "styleIndex": 37,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 294,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 69,
+      "labelName": "DLP_GMStation_070",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "标记中",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 70,
+      "labelName": "DLP_GMStation_071",
+      "styleInfo": {
+        "styleIndex": 46,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "----/--/--",
+          "strWidth": 112.5
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 71,
+      "labelName": "DLP_GMStation_072",
+      "styleInfo": {
+        "styleIndex": 39,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "标记",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 72,
+      "labelName": "DLP_GMStation_073",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已删除宝可梦的记录。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 73,
+      "labelName": "DLP_GMStation_074",
+      "styleInfo": {
+        "styleIndex": 45,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 546,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "来交换宝可梦吧！",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 74,
+      "labelName": "DLP_GMStation_075",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "确定",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 75,
+      "labelName": "DLP_GMStation_076",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "返回",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 76,
+      "labelName": "DLP_GMStation_077",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要继续奇迹交换吗？",
+          "strWidth": 288.0
+        }
+      ]
+    }
+  ]
+}
