@@ -43,6 +43,8 @@ $filesToParse = [
 ];
 
 foreach ($filesToParse as $file) {
+	$outputRecords = [];
+
 	foreach ($languages as $language) {
 		$inputFilename = str_replace('[language]', $language, $file['inputFilename']);
 
